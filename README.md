@@ -1,5 +1,8 @@
 # WTWR CLI – Weather-Based Outfit Recommender (C++)
 
+![WTWR CLI Demo](./example.gif)
+
+
 This is a C++ command-line version of my full-stack **WTWR (What To Wear?)** app.
 
 It auto-detects your current location via IP, fetches the current weather using the **OpenWeather API**, and recommends an outfit based on the temperature and time of day.
@@ -100,6 +103,3 @@ ip-api.com
 {
   "apiKey": "YOUR_KEY_HERE"
 }
-
-
-![WTWR CLI Demo](./example.gif)
