@@ -95,3 +95,11 @@ OpenWeather API
 nlohmann/json
 
 ip-api.com
+
+❗️ Note: `config.json` is gitignored. Please create it manually with your OpenWeather API key:
+{
+  "apiKey": "YOUR_KEY_HERE"
+}
+
+
+![WTWR CLI Demo](./example%20output.gif)
