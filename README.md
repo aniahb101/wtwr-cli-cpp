@@ -102,4 +102,4 @@ ip-api.com
 }
 
 
-![WTWR CLI Demo](./example%20output.gif)
+![WTWR CLI Demo](./example.gif)
